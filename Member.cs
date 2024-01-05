@@ -1,7 +1,7 @@
 ﻿using System.Windows.Controls;
 using System;
 
-
+//Poo
 public class Member : IComparable
 {
     public string FirstName { get; set; }
